@@ -1,0 +1,30 @@
+AUDIT BANK SOAL SAS GANJIL MATEMATIKA VI
+Tanggal 26 November 2026
+
+Total: 1.000 soal (PG 800, Isian 200)
+Gambar JPG: 200 (PG 160, Isian 40)
+
+isian | mudah   |  69
+isian | sedang  |  97
+isian | sulit   |  34
+pg    | mudah   | 252
+pg    | sedang  | 396
+pg    | sulit   | 152
+
+Topik:
+B1-01: 105 soal; 85 PG + 20 isian; 21 bergambar
+B1-02: 85 soal; 70 PG + 15 isian; 17 bergambar
+B1-03: 95 soal; 75 PG + 20 isian; 19 bergambar
+B1-04: 70 soal; 55 PG + 15 isian; 14 bergambar
+B1-05: 100 soal; 80 PG + 20 isian; 20 bergambar
+B1-06: 95 soal; 75 PG + 20 isian; 19 bergambar
+B2-01: 115 soal; 90 PG + 25 isian; 23 bergambar
+B2-02: 95 soal; 75 PG + 20 isian; 19 bergambar
+B2-03: 85 soal; 70 PG + 15 isian; 17 bergambar
+B2-04: 70 soal; 55 PG + 15 isian; 14 bergambar
+B2-05: 55 soal; 45 PG + 10 isian; 11 bergambar
+B2-06: 30 soal; 25 PG + 5 isian; 6 bergambar
+
+Semua jawaban PG ada di antara empat opsi dan seluruh pertanyaan unik secara string.
+Tidak ada SVG, ikon, atau emoji dalam tampilan dan ilustrasi.
+Sifat soal: orisinal parametrik. Belum melalui validasi empiris sekolah.
